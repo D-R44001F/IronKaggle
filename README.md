@@ -9,6 +9,6 @@ For this project I trained a model using a large data set (640,000+ entries) to 
 Saved in file named xgboost_model_ironkaggle.json
 
 Final results achieved by the model during training:
-R²: 0.9370
-Mean Absolute Error: 652.9065
-Root Mean Squared Erro: 965.2988
+- R²: 0.9370
+- Mean Absolute Error: 652.9065
+- Root Mean Squared Erro: 965.2988
